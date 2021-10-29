@@ -1,0 +1,5 @@
+C:\Users\Matteo.grotti.ITT\Desktop\eseCD\EsercizioCD\esercizioCD\obj\Debug\esercizioCD.csproj.AssemblyReference.cache
+C:\Users\Matteo.grotti.ITT\Desktop\eseCD\EsercizioCD\esercizioCD\obj\Debug\MainWindow.g.cs
+C:\Users\Matteo.grotti.ITT\Desktop\eseCD\EsercizioCD\esercizioCD\obj\Debug\App.g.cs
+C:\Users\Matteo.grotti.ITT\Desktop\eseCD\EsercizioCD\esercizioCD\obj\Debug\esercizioCD_MarkupCompile.cache
+C:\Users\Matteo.grotti.ITT\Desktop\eseCD\EsercizioCD\esercizioCD\obj\Debug\esercizioCD_MarkupCompile.lref
