@@ -43,7 +43,7 @@ namespace esercizioCD {
         
         #line 10 "..\..\MainWindow.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
-        internal System.Windows.Controls.TextBox txt_titolo;
+        internal System.Windows.Controls.TextBox thx_titolo;
         
         #line default
         #line hidden
@@ -51,7 +51,7 @@ namespace esercizioCD {
         
         #line 11 "..\..\MainWindow.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
-        internal System.Windows.Controls.TextBox txt_autore;
+        internal System.Windows.Controls.TextBox thx_autore;
         
         #line default
         #line hidden
@@ -59,7 +59,7 @@ namespace esercizioCD {
         
         #line 12 "..\..\MainWindow.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
-        internal System.Windows.Controls.TextBox txt_durata;
+        internal System.Windows.Controls.TextBox thx_durata;
         
         #line default
         #line hidden
@@ -127,13 +127,13 @@ namespace esercizioCD {
             switch (connectionId)
             {
             case 1:
-            this.txt_titolo = ((System.Windows.Controls.TextBox)(target));
+            this.thx_titolo = ((System.Windows.Controls.TextBox)(target));
             return;
             case 2:
-            this.txt_autore = ((System.Windows.Controls.TextBox)(target));
+            this.thx_autore = ((System.Windows.Controls.TextBox)(target));
             return;
             case 3:
-            this.txt_durata = ((System.Windows.Controls.TextBox)(target));
+            this.thx_durata = ((System.Windows.Controls.TextBox)(target));
             return;
             case 4:
             this.btn_aggiungiBrano = ((System.Windows.Controls.Button)(target));

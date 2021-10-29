@@ -7,6 +7,15 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        
+        <TextBox x:Name="txt_titolo" HorizontalAlignment="Left" Height="24" Margin="132,44,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txt_autore" HorizontalAlignment="Left" Height="24" Margin="132,86,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txt_durata" HorizontalAlignment="Left" Height="24" Margin="132,126,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="btn_aggiungiBrano" Content="Aggiungi Brano" HorizontalAlignment="Left" Margin="132,249,0,0" VerticalAlignment="Top" Width="120"/>
+        <ListBox x:Name="lst_cd" HorizontalAlignment="Left" Height="248" Margin="322,44,0,0" VerticalAlignment="Top" Width="169"/>
+        <Label x:Name="lb_brani" Content="" HorizontalAlignment="Left" Margin="615,44,0,0" VerticalAlignment="Top" Width="167" Height="248" Background="#FFEEC6C6"/>
+        <Button x:Name="btn_aggiungiCD" Content="Aggiungi CD" HorizontalAlignment="Left" Margin="132,224,0,0" VerticalAlignment="Top" Width="120"/>
+        <Label Content="titolo" HorizontalAlignment="Left" Margin="10,44,0,0" VerticalAlignment="Top" Width="97"/>
+        <Label Content="Durata (secondi)" HorizontalAlignment="Left" Margin="10,126,0,0" VerticalAlignment="Top" Width="97"/>
+        <Label Content="autore" HorizontalAlignment="Left" Margin="10,86,0,0" VerticalAlignment="Top" Width="97"/>
     </Grid>
 </Window>
