@@ -4,15 +4,26 @@
 winexe
 C#
 .cs
+<<<<<<< HEAD
 C:\Users\Matteo.grotti.ITT\Desktop\eseCD\EsercizioCD\esercizioCD\obj\Debug\
+=======
+C:\Users\alessandro.calbucci\Desktop\EsercitazioneGit\EsercizioCD\esercizioCD\obj\Debug\
+>>>>>>> 765b63d114bc23040a37e759940b7176ca42a069
 esercizioCD
 none
 false
 DEBUG;TRACE
+<<<<<<< HEAD
 C:\Users\Matteo.grotti.ITT\Desktop\eseCD\EsercizioCD\esercizioCD\App.xaml
 11151548125
 
 72032513961
+=======
+C:\Users\alessandro.calbucci\Desktop\EsercitazioneGit\EsercizioCD\esercizioCD\App.xaml
+11151548125
+
+7-1994000190
+>>>>>>> 765b63d114bc23040a37e759940b7176ca42a069
 13-1505183044
 MainWindow.xaml;
 
